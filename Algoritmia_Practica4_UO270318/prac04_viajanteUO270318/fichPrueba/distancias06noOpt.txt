@@ -1,0 +1,20 @@
+6
+0	3	10	11	7	25
+3	0	6	12	8	26
+10	6	0	9	4	20
+11	12	9	0	5	15
+7	8	4	5	0	18
+25	26	20	15	18	0
+
+El coste del ciclo calculado con Devorador1 es= 58
+Los nodos del ciclo son:
+0 -- 1 -- 2 -- 4 -- 3 -- 5 -- 0
+
+El coste del ciclo calculado con Devorador2 es= 58
+Los nodos del ciclo son:
+0 -- 1 -- 2 -- 4 -- 3 -- 5 -- 0
+
+El coste del ciclo óptimo calculado con backtracking
+El ciclo de Hamilton es:
+0 -- 1 -- 2 -- 5 -- 3 -- 4 -- 0 -- 
+Su coste es = 56
